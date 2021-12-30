@@ -19,18 +19,12 @@ The three commonly used Inverter output stages are, a push-pull with centre tap 
 Component List - 
 
 1. Transistor -  MJE 13005 *2
-2. 
-3. Resistor – 16 Ω (10 Watt) *2
-4. 
-5. Transformer – 12.0.12 volt (3 Amp)
-6. 
-7. PCBS (Made with JLCPCB)
-8. 
-9. Holder
-10. 
-11. Bulb
-12. 
-13. Power Source – DC 12v
+2. Resistor – 16 Ω (10 Watt) *2
+3. Transformer – 12.0.12 volt (3 Amp)
+4. PCBS (Made with JLCPCB)
+5. Holder
+6. Bulb
+7. Power Source – DC 12v
 
 
 Transistor Pin Out - 
